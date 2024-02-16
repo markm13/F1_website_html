@@ -1,0 +1,87 @@
+
+/* Ceci est un commentaire.
+Voici le lien pour w3scools:
+https://www.w3schools.com/css/default.asp
+*/
+.js
+{
+	 background-color: : #FF0000;
+ margin: auto;
+  width: 20%;
+  border: 3px solid green;
+  padding: 10px;
+  }  
+
+*
+{
+border-style: none;
+}
+body
+{
+border-style: none;
+}
+div
+{ 
+color: #FF0000;
+text-align: center;
+font-size: 40px;
+border-style: solid;
+}
+span
+{
+color: #00FF00;
+float: center;
+text-align: left;
+font-size: 60px;
+text-decoration: underline;
+text-shadow: 3px 2px red;
+}
+.bleu_gras
+{
+color: #0000FF;
+font-weight: bold;
+font-style: italic;
+border-style: dotted dashed solid double;
+}
+p
+{
+color: #0000FF;
+text-align: center;
+font-size: 40px;	
+border-style: none;
+}
+input{
+border-style: solid ;
+size : 100px;
+width: 400px;
+background-color: #FF0000;
+color: white;
+font-weight: bold;
+height : 30px;
+
+}	
+.souligne
+{
+font-size: 20px;
+text-align: left;
+font-weight: bold;
+text-decoration: underline;
+border-style: none;
+}
+
+.petit_span
+{
+color: #FF0000;
+font-size: 30px;
+text-shadow: 3px 2px white;
+}
+
+.form
+{
+color: #FF0000;
+float: center;
+text-align: left;
+font-size: 20px;
+text-decoration: none;
+text-shadow: none;
+}
